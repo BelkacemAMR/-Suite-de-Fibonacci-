@@ -13,3 +13,16 @@ def fibonacci(n):
 
 
     return fibonacci
+
+# Exemple de test:
+
+
+print(fibonacci(0))
+print(fibonacci(1))
+print(fibonacci(7))
+print(fibonacci(10))
+print(fibonacci(20))
+print(fibonacci(30))
+
+
+
